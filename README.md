@@ -1,7 +1,7 @@
 # Cinemachine Demo with cute Unity Chan!
 
 Cinemachine tutorial demo.
-
+Video session : https://youtu.be/0uDROvxOQ0w
 
 ## Assets
 
